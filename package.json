@@ -1,0 +1,26 @@
+{
+  "name": "ggpusht",
+  "version": "0.0.1",
+  "description": "Git push shortcut with tags that automatically infers the current branch",
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "repository": "johnotander/ggpusht",
+  "license": "MIT",
+  "bin": "ggpusht.sh",
+  "files": [
+    "ggpusht.sh"
+  ],
+  "keywords": [
+    "cli-app",
+    "git",
+    "push",
+    "ggpusht",
+    "tags",
+    "sh"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "ggpush": "^1.0.0"
+  }
+}
