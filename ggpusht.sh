@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-$(./node_modules/ggpush/ggpush.sh) --tags
+git push origin $(./node_modules/git-current-branch/git-current-branch.sh) --tags
