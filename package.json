@@ -21,6 +21,6 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "ggpush": "^1.0.0"
+    "git-current-branch": "^1.0.3"
   }
 }
