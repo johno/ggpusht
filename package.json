@@ -1,6 +1,6 @@
 {
   "name": "ggpusht",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Git push shortcut with tags that automatically infers the current branch",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "repository": "johnotander/ggpusht",
